@@ -330,7 +330,7 @@ const LearningToolsPage = ({ data }) => {
           <StyledButton to="https://studio.ethereum.org">
             <Translation id="page-build-try-button" />
           </StyledButton>
-          <StyledButton isSecondary to="/en/developers/docs/IDEs/">
+          <StyledButton isSecondary to="/en/developers/docs/ides/">
             Learn about IDEs
           </StyledButton>
         </ButtonRow> 

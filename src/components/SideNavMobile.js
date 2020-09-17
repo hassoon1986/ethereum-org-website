@@ -125,7 +125,7 @@ const links = [
       },
       {
         title: "Development environments",
-        to: "/developers/docs/IDEs/",
+        to: "/developers/docs/ides/",
       },
       {
         title: "Programming languages",

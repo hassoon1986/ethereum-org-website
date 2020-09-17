@@ -123,8 +123,8 @@ const links = [
         to: "/developers/docs/frameworks/",
       },
       {
-        title: "Development environments",
-        to: "/developers/docs/IDEs/",
+        title: "Integrated Development Environments (IDEs)",
+        to: "/developers/docs/ides/",
       },
       {
         title: "Programming languages",

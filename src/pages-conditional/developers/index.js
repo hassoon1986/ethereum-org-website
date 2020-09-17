@@ -365,7 +365,7 @@ const DevelopersPage = ({ data }) => {
             </Link>
             <p>Tools for helping speed up development</p>
 
-            <Link to="/en/developers/docs/IDEs/">Development environments</Link>
+            <Link to="/en/developers/docs/ides/">Development environments</Link>
             <p>IDEs that are suitable for dapp development</p>
 
             <h3>Advanced</h3>
