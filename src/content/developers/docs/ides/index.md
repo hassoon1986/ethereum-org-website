@@ -28,7 +28,7 @@ If you're looking to fiddle with code before you [set up a local development env
 
 ## Desktop IDEs
 
-Most established IDEs have built plugins to enhance Ethereum developer experience. At a minimum, they provide syntax higlighting for [smart contract languages](/developers/docs/smart-contracts/languages/).
+Most established IDEs have built plugins to enhance the Ethereum development experience. At a minimum, they provide syntax higlighting for [smart contract languages](/developers/docs/smart-contracts/languages/).
 
 **Visual Studio Code -** **_Professional cross-platform IDE with official Ethereum support._**
 
